@@ -356,3 +356,5 @@ The GeoXAI component is mainly provided through:
 - Developing a web-based Dash or Streamlit version of the dashboard
 - Adding more audience adaptive interactive visualization to the dashboard
 - Conducting user testing with residents, planners, public health stakeholders, and researchers
+
+---
