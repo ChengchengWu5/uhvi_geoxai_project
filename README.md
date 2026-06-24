@@ -1,4 +1,4 @@
-# Urban Heat Vulnerability Index (UHVI) GeoXAI Project
+# Audience-centred Geospatial Explainable AI (GeoXAI) Dashboard for Urban Heat Vulnerability Index (UHVI)
 
 This project develops a lightweight GeoXAI workflow for assessing Urban Heat Vulnerability Index (UHVI) patterns across Lower Layer Super Output Areas (LSOAs) in Newcastle upon Tyne. It combines Earth observation, census, deprivation, environmental, and urban morphology indicators to produce a spatial UHVI dataset, explain the drivers of vulnerability using machine learning and SHAP, test climate adaptation scenarios and intervention priority, and present results through an audience-adaptive dashboard.
 
